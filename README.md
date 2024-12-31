@@ -27,6 +27,12 @@ I'm currently diving deeper into Data Science to expand my skill set and tackle 
 <img src="https://devicon-website.vercel.app/api/numpy/original.svg" alt="numpy" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/pandas/original.svg" alt="pandas" width="45" height="45"/>
 <img src="https://devicon-website.vercel.app/api/python/original.svg" alt="python" width="45" height="45"/>  
+<img src="https://devicon-website.vercel.app/api/react/original.svg" alt='react' width='45' height='45'/>
+<img src="https://devicon-website.vercel.app/api/css3/original.svg" alt='css3' width='45' height='45'/>
+<img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt='nodejs' width='45' height='45'/>
+<img src="https://devicon-website.vercel.app/api/express/original.svg" alt='expressjs' width='45' height='45'/>
+<img src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt='mongodb' width='45' height='45'/>
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishishrivastava)](https://github.com/Nishishrivastava/github-readme-stats)
