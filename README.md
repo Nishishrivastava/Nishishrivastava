@@ -7,15 +7,14 @@
 
 ## About Me ℹ️
 
-Welcome to my GitHub profile! I am Nishi Shrivastava a software engineer on an endless journey of learning and growth. I'm deeply passionate about data analysis in all its facets and enjoy leveraging data to gain insights, solve problems, and drive meaningful decisions.
-Feel free to explore my repositories to see my work!
+Welcome to my GitHub profile! I am Nishi Shrivastava a software engineer on an endless journey of learning and growth. Feel free to explore my repositories to see my work!
 
 ## 🌱 I'm Currently Learning 
 
-I'm currently diving deeper into Data Science to expand my skill set and tackle new challenges using my creativity.
+I'm currently learning Core Java to expand my skill set and tackle new challenges using my creativity.
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Technologies & Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>     
@@ -32,6 +31,7 @@ I'm currently diving deeper into Data Science to expand my skill set and tackle 
 <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" alt='nodejs' width='45' height='45'/>
 <img src="https://devicon-website.vercel.app/api/express/original.svg" alt='expressjs' width='45' height='45'/>
 <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" alt='mongodb' width='45' height='45'/>
+<img src="https://devicon-website.vercel.app/api/java/original.svg" alt='java' width='45' height='45'/>
 
 </p>
 
